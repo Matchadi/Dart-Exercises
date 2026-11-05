@@ -1,0 +1,8 @@
+===== STUDENT GRADE REPORT =====
+Student Name: Adi Bagao
+Number of Subjects: 5
+Total Grades of the Student: 420.0
+Average Grade: 84.0
+Is the student currently enrolled? true
+Did the student pass? true
+Got a perfect score? false
